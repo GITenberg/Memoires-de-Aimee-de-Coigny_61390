@@ -1,0 +1,47 @@
+_repo: Memoires-de-Aimee-de-Coigny_61390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coigny, Aimée de
+    aliases:
+    - Fleury, Anne Francoise Aimee de Franquetot de Coigny, duchesse de
+    - Fleury, Anne Françoise Aimée de Franquetot de Coigny, duchesse de
+    - De Coigny, Aimée
+    birthdate: 1769
+    deathdate: 1820
+    gutenberg_agent_id: '51400'
+    url: http://www.gutenberg.org/2009/agents/51400
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Aim%C3%A9e_de_Coigny
+    - https://en.wikipedia.org/wiki/Aim%C3%A9e_de_Coigny
+  editor:
+    agent_name: Lamy, Etienne
+    aliases:
+    - Lamy, Étienne
+    - Lamy, Etienne Marie Victor
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '31552'
+    url: http://www.gutenberg.org/2009/agents/31552
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/%C3%89tienne_Lamy
+    - https://en.wikipedia.org/wiki/%C3%89tienne_Lamy
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2020-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61390'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Nobility -- France -- Biography'
+- !lcsh 'Coigny, Aimée de, 1769-1820'
+- GITenberg
+title: Mémoires de Aimée de Coigny
+url: http://www.gutenberg.org/ebooks/61390
