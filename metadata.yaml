@@ -1,5 +1,8 @@
 _repo: Memoires-de-Aimee-de-Coigny_61390
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61390-h/images/cover.jpg
 creator:
   author:
     agent_name: Coigny, Aimée de
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89tienne_Lamy
     - https://en.wikipedia.org/wiki/%C3%89tienne_Lamy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61390#Memoires-de-Aimee-de-Coigny
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
